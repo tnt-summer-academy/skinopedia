@@ -20,8 +20,8 @@
     "description": "death of body tissue due to lack of blood flow  or  a serious bacterial infection. Which commonly  affects the arms and legs.",
     "recognised": "a wound that is red, sore",
     "treatment": "Antibiotics. These medicines can be used to kill bacteria in the affected area",
-    "picture_1": "",
-    "picture_2": ""
+    "picture_1": "./images/gangrene_white.png",
+    "picture_2": "./images/gangrene_black.jpeg"
   },
   {
     "name": "Jaundice",

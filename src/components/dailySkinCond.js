@@ -2,7 +2,11 @@ import React, { useEffect } from "react";
 import Data from "../data/skinConditions.json";
 
 export default function DailySkinCond() {
-  let num = Math.trunc(Math.random() * 14);
+  let num = Math.trunc(Math.random() * 14)
+
+
+//let num=7;
+
 
   function handleClick() {
     console.log("clicked");
